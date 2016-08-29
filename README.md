@@ -10,6 +10,7 @@
 ### License
 Apache 2.0 ([read License](https://github.com/acislab/HuMaIN_Collaborative_Data_Extraction/blob/master/LICENSE))
 
-<sup>1</sup> I. Alzuru, A. Matsunaga, M. Tsugawa, and J. Fortes, "*Cooperative Human-Machine Data Extraction from Biological Collections*", 2016 IEEE 12th International Conference on eScience, 2016.
+<br/>
+<sup>1</sup>  I. Alzuru, A. Matsunaga, M. Tsugawa, and J. Fortes, "*Cooperative Human-Machine Data Extraction from Biological Collections*", 2016 IEEE 12th International Conference on eScience, 2016.
 
 Last update: Icaro Alzuru  (August - 2016)
