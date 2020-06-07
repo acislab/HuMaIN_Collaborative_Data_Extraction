@@ -12,3 +12,8 @@
 <br/>
 <br/>
 **License**: Apache 2.0 ([read License](https://github.com/acislab/HuMaIN_Collaborative_Data_Extraction/blob/master/LICENSE))
+
+## Acknowledgement
+HuMaIN is funded by a grant from the National Science Foundation's ACI Division of Advanced Cyberinfrastructure (Award Number: 1535086).
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and
+do not necessarily reflect the views of the National Science Foundation.
